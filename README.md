@@ -20,7 +20,7 @@
 | 客户端                 | Windows |  <img width=5/>macOS<img width=5/>  |  <img width=11/>Linux<img width=11/>  |   <img width=17/>iOS<img width=17/>   | <img width=5/>Android<img width=5/> | <img width=5/>路由器<img width=5/> |
 |---------------------|---------|-------|-------|-----|---------|-----|
 | Clash for Android   |         |       |       |     | ✔       |     |
-| Clash for Windows   | ✔       | ✔     | ✔     |     |         |     |
+| [Clash for Windows](https://clashforwindows.org/?utm_source=github&utm_medium=jichangtuijian)   | ✔       | ✔     | ✔     |     |         |     |
 | Clash Verge         | ✔       | ✔     | ✔     |     |         |     |
 | ClashX              |         | ✔     |       |     |         |     |
 | ClashX Pro          |         | ✔     |       |     |         |     |
