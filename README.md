@@ -14,33 +14,33 @@
 - **iOS:** [Shadowrocket](https://shadowrocketios.org/?utm_source=github&utm_medium=jichangtuijian) / [Quantumult](https://quantumult.org/?utm_source=github&utm_medium=jichangtuijian)_ / [Quantumult X](https://quantumultx.org/?utm_source=github&utm_medium=jichangtuijian) / [Stash](https://clashstash.org/?utm_source=github&utm_medium=jichangtuijian) / [Potatso Lite](https://potatso.org/?utm_source=github&utm_medium=jichangtuijian) / [sing-box](https://sing-box.org/?utm_source=github&utm_medium=jichangtuijian)
 - **Android:** [v2rayNG](https://v2rayng.org/?utm_source=github&utm_medium=jichangtuijian) / [Clash for Android](https://clashforandroid.org/?utm_source=github&utm_medium=jichangtuijian) / [NekoBox for Android](https://nekoboxforandroid.org/?utm_source=github&utm_medium=jichangtuijian) / [sing-box](https://sing-box.org/?utm_source=github&utm_medium=jichangtuijian) / [Surfboard](https://getsurfboard.org/?utm_source=github&utm_medium=jichangtuijian)
 - **Linux:** [Clsah Verge](https://clashverge.org/?utm_source=github&utm_medium=jichangtuijian) / [Clash for Windows](https://clashforwindows.org/?utm_source=github&utm_medium=jichangtuijian) / [NekoRay](https://nekoray.org/?utm_source=github&utm_medium=jichangtuijian) / [sing-box](https://sing-box.org/?utm_source=github&utm_medium=jichangtuijian)
-- **路由器:** [OpenClash](https://openclash.org/?utm_source=github&utm_medium=jichangtuijian) / [PassWall2](https://passwall2.org/?utm_source=github&utm_medium=jichangtuijian) / [SSRplus](https://ssrplus.org/?utm_source=github&utm_medium=jichangtuijian)
+- **路由器:** [OpenClash](https://openclash.org/?utm_source=github&utm_medium=jichangtuijian) / [PassWall2](https://passwall2.org/?utm_source=github&utm_medium=jichangtuijian) / [ShadowsocksR Plus+](https://ssrplus.org/?utm_source=github&utm_medium=jichangtuijian)
 
 ### 快速导航
 | 客户端                 | Windows |  <img width=5/>macOS<img width=5/>  |  <img width=11/>Linux<img width=11/>  |   <img width=17/>iOS<img width=17/>   | <img width=5/>Android<img width=5/> | <img width=5/>路由器<img width=5/> |
 |---------------------|---------|-------|-------|-----|---------|-----|
-| Clash for Android   |         |       |       |     | ✔       |     |
+| [Clash for Android](https://clashforandroid.org/?utm_source=github&utm_medium=jichangtuijian)   |         |       |       |     | ✔       |     |
 | [Clash for Windows](https://clashforwindows.org/?utm_source=github&utm_medium=jichangtuijian)   | ✔       | ✔     | ✔     |     |         |     |
-| Clash Verge         | ✔       | ✔     | ✔     |     |         |     |
-| ClashX              |         | ✔     |       |     |         |     |
-| ClashX Pro          |         | ✔     |       |     |         |     |
-| NekoBox for Android |         |       |       |     | ✔       |     |
-| NekoRay             | ✔       |       | ✔     |     |         |     |
-| OpenClash           |         |       |       |     |         | ✔   |
-| PassWall2           |         |       |       |     |         | ✔   |
-| Potatso Lite        |         |       |       | ✔   |         |     |
-| Quantumult          |         |       |       | ✔   |         |     |
-| Quantumult X        |         | ✔     |       | ✔   |         |     |
-| Shadowrocket        |         |       |       | ✔   |         |     |
-| ShadowsocksR Plus+  |         |       |       |     |         | ✔   |
-| sing-box            | ✔       | ✔     | ✔     | ✔   | ✔       |     |
-| Stash               |         | ✔     |       | ✔   |         |     |
-| Surfboard           |         |       |       |     | ✔       |     |
-| Surge iOS           |         |       |       | ✔   |         |     |
-| Surge Mac           |         | ✔     |       |     |         |     |
-| v2rayN              | ✔       |       |       |     |         |     |
-| v2rayNG             |         |       |       |     | ✔       |     |
-| V2rayU              |         | ✔     |       |     |         |     |
+| [Clsah Verge](https://clashverge.org/?utm_source=github&utm_medium=jichangtuijian)         | ✔       | ✔     | ✔     |     |         |     |
+| [ClashX](https://clashx.org/?utm_source=github&utm_medium=jichangtuijian)              |         | ✔     |       |     |         |     |
+| [ClashX Pro](https://clashxpro.org/?utm_source=github&utm_medium=jichangtuijian)          |         | ✔     |       |     |         |     |
+| [NekoBox for Android](https://nekoboxforandroid.org/?utm_source=github&utm_medium=jichangtuijian) |         |       |       |     | ✔       |     |
+| [NekoRay](https://nekoray.org/?utm_source=github&utm_medium=jichangtuijian)             | ✔       |       | ✔     |     |         |     |
+| [OpenClash](https://openclash.org/?utm_source=github&utm_medium=jichangtuijian)           |         |       |       |     |         | ✔   |
+| [PassWall2](https://passwall2.org/?utm_source=github&utm_medium=jichangtuijian)           |         |       |       |     |         | ✔   |
+| [Potatso Lite](https://potatso.org/?utm_source=github&utm_medium=jichangtuijian)        |         |       |       | ✔   |         |     |
+| [Quantumult](https://quantumult.org/?utm_source=github&utm_medium=jichangtuijian)          |         |       |       | ✔   |         |     |
+| [Quantumult X](https://quantumultx.org/?utm_source=github&utm_medium=jichangtuijian)        |         | ✔     |       | ✔   |         |     |
+| [Shadowrocket](https://shadowrocketios.org/?utm_source=github&utm_medium=jichangtuijian)        |         |       |       | ✔   |         |     |
+| [ShadowsocksR Plus+](https://ssrplus.org/?utm_source=github&utm_medium=jichangtuijian)  |         |       |       |     |         | ✔   |
+| [sing-box](https://sing-box.org/?utm_source=github&utm_medium=jichangtuijian)            | ✔       | ✔     | ✔     | ✔   | ✔       |     |
+| [Stash](https://clashstash.org/?utm_source=github&utm_medium=jichangtuijian)               |         | ✔     |       | ✔   |         |     |
+| [Surfboard](https://getsurfboard.org/?utm_source=github&utm_medium=jichangtuijian)           |         |       |       |     | ✔       |     |
+| [Surge iOS](https://surgeios.org/?utm_source=github&utm_medium=jichangtuijian)           |         |       |       | ✔   |         |     |
+| [Surge Mac](https://surgemac.org/?utm_source=github&utm_medium=jichangtuijian)           |         | ✔     |       |     |         |     |
+| [v2rayN](https://v2rayn.org/?utm_source=github&utm_medium=jichangtuijian)              | ✔       |       |       |     |         |     |
+| [v2rayNG](https://v2rayng.org/?utm_source=github&utm_medium=jichangtuijian)             |         |       |       |     | ✔       |     |
+| [V2rayU](https://v2rayu.org/?utm_source=github&utm_medium=jichangtuijian)              |         | ✔     |       |     |         |     |
 
 
 
