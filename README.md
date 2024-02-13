@@ -17,7 +17,7 @@
 - **路由器:** [OpenClash](https://openclash.org/?utm_source=github&utm_medium=jichangtuijian) / [PassWall2](https://passwall2.org/?utm_source=github&utm_medium=jichangtuijian) / [SSRplus](https://ssrplus.org/?utm_source=github&utm_medium=jichangtuijian)
 
 ### 快速导航
-| 客户端                 | Windows |  <img width=5/>macOS<img width=5/>  |  <img width=7/>Linux<img width=7/>  |   <img width=12/>iOS<img width=12/>   | Android | 路由器 |
+| 客户端                 | Windows |  <img width=5/>macOS<img width=5/>  |  <img width=9/>Linux<img width=9/>  |   <img width=14/>iOS<img width=14/>   | <img width=3/>Android<img width=3/> | 路由器 |
 |---------------------|---------|-------|-------|-----|---------|-----|
 | Clash for Android   |         |       |       |     | ✔       |     |
 | Clash for Windows   | ✔       | ✔     | ✔     |     |         |     |
