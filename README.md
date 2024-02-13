@@ -17,7 +17,7 @@
 - **路由器:** [OpenClash](https://openclash.org/?utm_source=github&utm_medium=jichangtuijian) / [PassWall2](https://passwall2.org/?utm_source=github&utm_medium=jichangtuijian) / [ShadowsocksR Plus+](https://ssrplus.org/?utm_source=github&utm_medium=jichangtuijian)
 
 ### 快速导航
-| 客户端                 | Windows |  <img width=5/>macOS<img width=5/>  |  <img width=11/>Linux<img width=11/>  |   <img width=19/>iOS<img width=19/>   | <img width=5/>Android<img width=5/> | <img width=5/>路由器<img width=5/> |
+| 客户端                 | Windows |  <img width=5/>macOS<img width=5/>  |  <img width=11/>Linux<img width=11/>  |   <img width=19/>iOS<img width=19/>   | <img width=3/>Android<img width=3/> | <img width=5/>路由器<img width=5/> |
 |---------------------|---------|-------|-------|-----|---------|-----|
 | [Clash for Android](https://clashforandroid.org/?utm_source=github&utm_medium=jichangtuijian)   |         |       |       |     | ✔       |     |
 | [Clash for Windows](https://clashforwindows.org/?utm_source=github&utm_medium=jichangtuijian)   | ✔       | ✔     | ✔     |     |         |     |
