@@ -16,6 +16,33 @@
 - **Linux:** [Clsah Verge](https://clashverge.org/?utm_source=github&utm_medium=jichangtuijian) / [Clash for Windows](https://clashforwindows.org/?utm_source=github&utm_medium=jichangtuijian) / [NekoRay](https://nekoray.org/?utm_source=github&utm_medium=jichangtuijian) / [sing-box](https://sing-box.org/?utm_source=github&utm_medium=jichangtuijian)
 - **路由器:** [OpenClash](https://openclash.org/?utm_source=github&utm_medium=jichangtuijian) / [PassWall2](https://passwall2.org/?utm_source=github&utm_medium=jichangtuijian) / [SSRplus](https://ssrplus.org/?utm_source=github&utm_medium=jichangtuijian)
 
+### 快速导航
+| 客户端                 | Windows | macOS | Linux | iOS | Android | 路由器 |
+|---------------------|---------|-------|-------|-----|---------|-----|
+| Clash for Android   |         |       |       |     | ✔       |     |
+| Clash for Windows   | ✔       | ✔     | ✔     |     |         |     |
+| Clash Verge         | ✔       | ✔     | ✔     |     |         |     |
+| ClashX              |         | ✔     |       |     |         |     |
+| ClashX Pro          |         | ✔     |       |     |         |     |
+| NekoBox for Android |         |       |       |     | ✔       |     |
+| NekoRay             | ✔       |       | ✔     |     |         |     |
+| OpenClash           |         |       |       |     |         | ✔   |
+| PassWall2           |         |       |       |     |         | ✔   |
+| Potatso Lite        |         |       |       | ✔   |         |     |
+| Quantumult          |         |       |       | ✔   |         |     |
+| Quantumult X        |         | ✔     |       | ✔   |         |     |
+| Shadowrocket        |         |       |       | ✔   |         |     |
+| ShadowsocksR Plus+  |         |       |       |     |         | ✔   |
+| sing-box            | ✔       | ✔     | ✔     | ✔   | ✔       |     |
+| Stash               |         | ✔     |       | ✔   |         |     |
+| Surfboard           |         |       |       |     | ✔       |     |
+| Surge iOS           |         |       |       | ✔   |         |     |
+| Surge Mac           |         | ✔     |       |     |         |     |
+| v2rayN              | ✔       |       |       |     |         |     |
+| v2rayNG             |         |       |       |     | ✔       |     |
+| V2rayU              |         | ✔     |
+
+
 ## 10大稳定好用的机场推荐
 
 ### 1. 飞机云
