@@ -68,6 +68,8 @@
 
 #### 大哥云官网
 
+[大哥云最新官网](https://jcz.affxc.com/dageyun)
+
 #### 大哥云套餐价格
 
 #### 大哥云机场测速
@@ -75,6 +77,8 @@
 ### 3. 龙猫云
 
 #### 龙猫云官网
+
+[龙猫云最新官网](https://jcz.affxc.com/totorocloud)
 
 #### 龙猫云套餐价格
 
@@ -84,6 +88,8 @@
 
 #### 速云梯官网
 
+[速云梯最新官网](https://jcz.affxc.com/suyunti)
+
 #### 速云梯套餐价格
 
 #### 速云梯机场测速
@@ -91,6 +97,8 @@
 ### 5. 极速VIP加速器
 
 #### 极速VIP加速器官网
+
+[极速VIP加速器最新官网](https://jcz.affxc.com/jisuvip)
 
 #### 极速VIP加速器套餐价格
 
@@ -100,6 +108,8 @@
 
 #### 飞鸟机场官网
 
+[飞鸟机场最新官网](https://jcz.affxc.com/flyingbird)
+
 #### 飞鸟机场套餐价格
 
 #### 飞鸟机场机场测速
@@ -107,6 +117,8 @@
 ### 7. CyberGuard机场
 
 #### CyberGuard机场官网
+
+[CyberGuard机场最新官网](https://jcz.affxc.com/cyberguard)
 
 #### CyberGuard机场套餐价格
 
@@ -116,6 +128,8 @@
 
 #### 万城网络官网
 
+[万城网络最新官网](https://jcz.affxc.com/vcity)
+
 #### 万城网络套餐价格
 
 #### 万城网络机场测速
@@ -124,6 +138,8 @@
 
 #### 奶瓶机场官网
 
+[奶瓶机场最新官网](https://jcz.affxc.com/nerwo)
+
 #### 奶瓶机场套餐价格
 
 #### 奶瓶机场机场测速
@@ -131,6 +147,8 @@
 ### 10. SSRDOG机场
 
 #### SSRDOG机场官网
+
+[SSRDOG机场最新官网](https://jcz.affxc.com/ssrdog)
 
 #### SSRDOG机场套餐价格
 
