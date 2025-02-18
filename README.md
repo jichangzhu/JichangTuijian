@@ -91,7 +91,7 @@ JFCloud疾风云机场，是实力老牌机场旗下的新开分站，是用低�
 ![JFCloud-SpeedTest](https://github.com/jichangzhu/JichangTuijian/assets/152512496/0e838d0e-4cef-4801-bc67-a8d539ece26a)
 
 ### 3. 大哥云
-大哥云是一家海外团队运营的翻墙机场，提供V2ray和Trojan翻墙节点，翻墙线路有直连、隧道中转和IPLC内网专线，国内有移动和联通双线入口，安卓和Windows系统可使用大哥云定制客户端。
+大哥云是一家海外团队运营的翻墙机场，提供Trojan翻墙节点，翻墙线路有直连、隧道中转和IPLC内网专线，国内有移动和联通双线入口，安卓和Windows系统可使用大哥云定制客户端。
 
 #### 大哥云官网
 
@@ -111,7 +111,8 @@ JFCloud疾风云机场，是实力老牌机场旗下的新开分站，是用低�
 
 #### 大哥云机场测速
 
-![dageyun-SpeedTest-SZDX](https://github.com/jichangzhu/JichangTuijian/assets/152512496/a341dac4-72e9-4141-bd37-f8dbedc40f5d)
+![dageyun-SpeedTest](https://github.com/user-attachments/assets/c92a0b9c-2262-4887-bb2b-f51e9bb61904)
+
 
 ### 4. 三番云加速器
 三番云，是某实力老牌机场旗下新开高端专线机场，也是一家用低价提供高端线路节点的魔法上网机场梯子工具加速器。使用隧道中转优化线路与IPLC国际专线，使用 V2Ray 协议，多达条优质线路节点主要集中在香港、台湾、美国、日本、韩国、法国等中国用户常用国家与地区。
