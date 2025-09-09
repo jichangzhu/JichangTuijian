@@ -18,6 +18,7 @@
 | [Clash Meta For Android](https://clashmetaforandroid.org/?utm_source=github&utm_medium=jichangtuijian) |         |       |       |     | ✔       |     |
 | [Clash Mi](https://clash-mi.org/?utm_source=github&utm_medium=jichangtuijian)               | ✔       | ✔     |       | ✔   | ✔       |     |
 | [Clash Nyanpasu](https://clashnyanpasu.org/?utm_source=github&utm_medium=jichangtuijian)         | ✔       | ✔     | ✔     |     |         |     |
+| [Clash Party](https://clash-party.org/?utm_source=github&utm_medium=jichangtuijian)            | ✔       | ✔     | ✔     |     |         |     |
 | [Clash Verge](https://clashverge.org/?utm_source=github&utm_medium=jichangtuijian)            | ✔       | ✔     | ✔     |     |         |     |
 | [Clash Verge Rev](https://clashvergerev.org/?utm_source=github&utm_medium=jichangtuijian)        | ✔       | ✔     | ✔     |     |         |     |
 | [ClashN](https://getclashn.org/?utm_source=github&utm_medium=jichangtuijian)                 | ✔       |       |       |     |         |     |
