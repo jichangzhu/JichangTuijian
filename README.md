@@ -1,4 +1,4 @@
-# 2025最新好用的机场推荐与节点分享 (2025-09)
+# 2025最新好用的机场推荐与节点分享 (2025-10)
 
 ## 写在前面
 2025最新好用的机场推荐与节点分享，最新机场推荐与机场评测，包含了机场最新官网地址、优惠价格套餐、机场简介等。
@@ -16,7 +16,7 @@
 | [Clash for Android](https://clashforandroid.org/?utm_source=github&utm_medium=jichangtuijian)      |         |       |       |     | ✔       |     |
 | [Clash for Windows](https://clashforwindows.org/?utm_source=github&utm_medium=jichangtuijian)      | ✔       | ✔     | ✔     |     |         |     |
 | [Clash Meta For Android](https://clashmetaforandroid.org/?utm_source=github&utm_medium=jichangtuijian) |         |       |       |     | ✔       |     |
-| [Clash Mi](https://clash-mi.org/?utm_source=github&utm_medium=jichangtuijian)               | ✔       | ✔     |       | ✔   | ✔       |     |
+| [Clash Mi](https://clash-mi.org/?utm_source=github&utm_medium=jichangtuijian)               | ✔       | ✔     | ✔       | ✔   | ✔       |     |
 | [Clash Nyanpasu](https://clashnyanpasu.org/?utm_source=github&utm_medium=jichangtuijian)         | ✔       | ✔     | ✔     |     |         |     |
 | [Clash Party](https://clash-party.org/?utm_source=github&utm_medium=jichangtuijian)            | ✔       | ✔     | ✔     |     |         |     |
 | [Clash Verge](https://clashverge.org/?utm_source=github&utm_medium=jichangtuijian)            | ✔       | ✔     | ✔     |     |         |     |
@@ -35,7 +35,7 @@
 | [Potatso Lite](https://potatso.org/?utm_source=github&utm_medium=jichangtuijian)           |         |       |       | ✔   |         |     |
 | [Quantumult](https://quantumult.org/?utm_source=github&utm_medium=jichangtuijian)             |         |       |       | ✔   |         |     |
 | [Quantumult X](https://quantumultx.org/?utm_source=github&utm_medium=jichangtuijian)           |         | ✔     |       | ✔   |         |     |
-| [Shadowrocket](https://shadowrocketios.org/?utm_source=github&utm_medium=jichangtuijian)           |         |       |       | ✔   |         |     |
+| [Shadowrocket](https://shadowrocketios.org/?utm_source=github&utm_medium=jichangtuijian)           |         | ✔       |       | ✔   |         |     |
 | [ShadowsocksR Plus+](https://ssrplus.org/?utm_source=github&utm_medium=jichangtuijian)     |         |       |       |     |         | ✔   |
 | [sing-box](https://sing-box.org/?utm_source=github&utm_medium=jichangtuijian)               | ✔       | ✔     | ✔     | ✔   | ✔       |     |
 | [Stash](https://clashstash.org/?utm_source=github&utm_medium=jichangtuijian)                  |         | ✔     |       | ✔   |         |     |
@@ -58,7 +58,7 @@
 
 [扬帆云机场最新官网](https://jcz.affxc.com/yangfanyun)
 
-#### 优信云机场套餐价格
+#### 扬帆云机场套餐价格
 
 | 扬帆云机场       | 付款周期 | 价格    | 每月流量    | 同时在线数量 |
 |-----------|------|-------|---------|--------|
