@@ -10,43 +10,55 @@
 
 ## 客户端推荐
 
+
 ### 快速导航
-| 客户端                 | Windows |  <img width=5/>macOS<img width=5/>  |  <img width=11/>Linux<img width=11/>  |   <img width=19/>iOS<img width=19/>   | <img width=3/>Android<img width=3/> | <img width=7/>路由器<img width=7/> |
-|------------------------|---------|-------|-------|-----|---------|-----|
-| [Clash for Android](https://clashforandroid.org/?utm_source=github&utm_medium=jichangtuijian)      |         |       |       |     | ✔       |     |
-| [Clash for Windows](https://clashforwindows.org/?utm_source=github&utm_medium=jichangtuijian)      | ✔       | ✔     | ✔     |     |         |     |
-| [Clash Meta For Android](https://clashmetaforandroid.org/?utm_source=github&utm_medium=jichangtuijian) |         |       |       |     | ✔       |     |
-| [Clash Mi](https://clash-mi.org/?utm_source=github&utm_medium=jichangtuijian)               | ✔       | ✔     | ✔       | ✔   | ✔       |     |
-| [Clash Nyanpasu](https://clashnyanpasu.org/?utm_source=github&utm_medium=jichangtuijian)         | ✔       | ✔     | ✔     |     |         |     |
-| [Clash Party](https://clash-party.org/?utm_source=github&utm_medium=jichangtuijian)            | ✔       | ✔     | ✔     |     |         |     |
-| [Clash Verge](https://clashverge.org/?utm_source=github&utm_medium=jichangtuijian)            | ✔       | ✔     | ✔     |     |         |     |
-| [Clash Verge Rev](https://clashvergerev.org/?utm_source=github&utm_medium=jichangtuijian)        | ✔       | ✔     | ✔     |     |         |     |
-| [ClashN](https://getclashn.org/?utm_source=github&utm_medium=jichangtuijian)                 | ✔       |       |       |     |         |     |
-| [ClashX](https://clashx.org/?utm_source=github&utm_medium=jichangtuijian)                 |         | ✔     |       |     |         |     |
-| [ClashX Meta](https://clashxmeta.org/?utm_source=github&utm_medium=jichangtuijian)            |         | ✔     |       |     |         |     |
-| [ClashX Pro](https://clashxpro.org/?utm_source=github&utm_medium=jichangtuijian)             |         | ✔     |       |     |         |     |
-| [FlClash](https://getflclash.org/?utm_source=github&utm_medium=jichangtuijian)                | ✔       | ✔     | ✔     |     | ✔       |     |
-| [Hiddify](https://gethiddify.org/?utm_source=github&utm_medium=jichangtuijian)           | ✔       | ✔     | ✔     | ✔   | ✔       |     |
-| [Mihomo Party](https://mihomo-party.org/?utm_source=github&utm_medium=jichangtuijian)           | ✔       | ✔     | ✔     |     |         |     |
-| [NekoBox for Android](https://nekoboxforandroid.org/?utm_source=github&utm_medium=jichangtuijian)    |         |       |       |     | ✔       |     |
-| [NekoRay](https://nekoray.org/?utm_source=github&utm_medium=jichangtuijian)                | ✔       |       | ✔     |     |         |     |
-| [OpenClash](https://openclash.org/?utm_source=github&utm_medium=jichangtuijian)              |         |       |       |     |         | ✔   |
-| [PassWall2](https://passwall2.org/?utm_source=github&utm_medium=jichangtuijian)              |         |       |       |     |         | ✔   |
-| [Potatso Lite](https://potatso.org/?utm_source=github&utm_medium=jichangtuijian)           |         |       |       | ✔   |         |     |
-| [Karing](https://getkaring.org/?utm_source=github&utm_medium=jichangtuijian)               | ✔       | ✔     | ✔       | ✔   | ✔       |     |
-| [Loon](https://getloon.org/?utm_source=github&utm_medium=jichangtuijian)           |         |       |       | ✔   |         |     |
-| [Quantumult](https://quantumult.org/?utm_source=github&utm_medium=jichangtuijian)             |         |       |       | ✔   |         |     |
-| [Quantumult X](https://quantumultx.org/?utm_source=github&utm_medium=jichangtuijian)           |         | ✔     |       | ✔   |         |     |
-| [Shadowrocket](https://shadowrocketios.org/?utm_source=github&utm_medium=jichangtuijian)           |         | ✔       |       | ✔   |         |     |
-| [ShadowsocksR Plus+](https://ssrplus.org/?utm_source=github&utm_medium=jichangtuijian)     |         |       |       |     |         | ✔   |
-| [sing-box](https://sing-box.org/?utm_source=github&utm_medium=jichangtuijian)               | ✔       | ✔     | ✔     | ✔   | ✔       |     |
-| [Stash](https://getstash.org/?utm_source=github&utm_medium=jichangtuijian)                  |         | ✔     |       | ✔   |         |     |
-| [Surfboard](https://getsurfboard.org/?utm_source=github&utm_medium=jichangtuijian)              |         |       |       |     | ✔       |     |
-| [Surge](https://nssurge.org/?utm_source=github&utm_medium=jichangtuijian)              |         | ✔     |       | ✔   |         |     |
-| [v2rayN](https://v2rayn.org/?utm_source=github&utm_medium=jichangtuijian)                 | ✔       | ✔       | ✔       |     |         |     |
-| [v2rayNG](https://v2rayng.org/?utm_source=github&utm_medium=jichangtuijian)                |         |       |       |     | ✔       |     |
-| [V2rayU](https://v2rayu.org/?utm_source=github&utm_medium=jichangtuijian)                 |         | ✔     |       |     |         |     |
-| [WinXray](https://winxray.org/?utm_source=github&utm_medium=jichangtuijian)                | ✔       |       |       |     |         |     |
+
+> :green_circle: 维护中 :red_circle: 已停更 （新用户请选:green_circle:）
+
+| 客户端 | 维护状态 | Windows | macOS | Linux | iOS | Android | 路由器 | 仓库 | 
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| [Bettbox](https://getbettbox.org/?utm_source=github&utm_medium=jichangzhu_jichangtuijian) | :green_circle: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :x: | :white_check_mark: | :x: | [官网](https://github.com/appshubcc/Bettbox/releases) |
+| [Clash for Android](https://clashforandroid.org/?utm_source=github&utm_medium=jichangzhu_jichangtuijian) | :red_circle: | :x: | :x: | :x: | :x: | white_check_mark: | :x: | [备份](https://clashforandroid.org/?utm_source=github&utm_medium=jichangzhu_jichangtuijian) |
+| [Clash for Windows](https://clashforwindows.org/?utm_source=github&utm_medium=jichangzhu_jichangtuijian) | :red_circle: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :x: | :x: | :x: | [备份](https://clashforwindows.org/?utm_source=github&utm_medium=jichangzhu_jichangtuijian) |
+| [Clash Meta For Android](https://clashmetaforandroid.org/?utm_source=github&utm_medium=jichangzhu_jichangtuijian) | :green_circle: | :x: | :x: | :x: | :x: | white_check_mark: | :x: | [官网](https://github.com/MetaCubeX/ClashMetaForAndroid/releases) |
+| [Clash Mi](https://clash-mi.org/?utm_source=github&utm_medium=jichangzhu_jichangtuijian) | :green_circle: | white_check_mark: | white_check_mark: | white_check_mark: | white_check_mark: | white_check_mark: | :x: | [官网](https://github.com/KaringX/clashmi/releases) |
+| [Clash Nyanpasu](https://clashnyanpasu.org/?utm_source=github&utm_medium=jichangzhu_jichangtuijian) | :green_circle: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :x: | :x: | :x: | [官网](https://github.com/LibNyanpasu/clash-nyanpasu/releases) |
+| [Clash Party](https://clash-party.org/?utm_source=github&utm_medium=jichangzhu_jichangtuijian) | :green_circle: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :x: | :x: | :x: | [官网](https://github.com/mihomo-party-org/clash-party/releases) |
+| [Clash Verge](https://clashverge.org/?utm_source=github&utm_medium=jichangzhu_jichangtuijian) | :red_circle: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :x: | :x: | :x: | [备份](https://clashverge.org/?utm_source=github&utm_medium=jichangzhu_jichangtuijian) |
+| [Clash Verge Rev](https://clashvergerev.org/?utm_source=github&utm_medium=jichangzhu_jichangtuijian) | :green_circle: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :x: | :x: | :x: | [官网](https://github.com/clash-verge-rev/clash-verge-rev/releases) |
+| [ClashBar](https://getclashbar.org/?utm_source=github&utm_medium=jichangzhu_jichangtuijian) | :green_circle: | :x: | :white_check_mark: | :x: | :x: | :x: | :x: | [官网](https://github.com/Sitoi/ClashBar/releases) |
+| [ClashBox](https://clashbox.org/?utm_source=github&utm_medium=jichangzhu_jichangtuijian) | :green_circle: | :x: | :x: | :x: | :x: | white_check_mark: | :x: | [官网](https://github.com/xiaobaigroup/ClashBox/releases) |
+| [ClashN](https://getclashn.org/?utm_source=github&utm_medium=jichangzhu_jichangtuijian) | :red_circle: | :white_check_mark: | :x: | :x: | :x: | :x: | :x: | [备份](https://getclashn.org/?utm_source=github&utm_medium=jichangzhu_jichangtuijian) |
+| [ClashX](https://clashx.org/?utm_source=github&utm_medium=jichangzhu_jichangtuijian) | :red_circle: | :x: | :white_check_mark: | :x: | :x: | :x: | :x: | [备份](https://clashx.org/?utm_source=github&utm_medium=jichangzhu_jichangtuijian) |
+| [ClashX Meta](https://clashxmeta.org/?utm_source=github&utm_medium=jichangzhu_jichangtuijian) | :green_circle: | :x: | :white_check_mark: | :x: | :x: | :x: | :x: | [官网](https://github.com/MetaCubeX/ClashX.Meta/releases) |
+| [ClashX Pro](https://clashxpro.org/?utm_source=github&utm_medium=jichangzhu_jichangtuijian) | :red_circle: | :x: | :white_check_mark: | :x: | :x: | :x: | :x: | [备份](https://clashxpro.org/?utm_source=github&utm_medium=jichangzhu_jichangtuijian) |
+| [Egern](https://getegern.org/?utm_source=github&utm_medium=jichangzhu_jichangtuijian) | :green_circle: | :x: | :x: | :x: | white_check_mark: | :x: | :x: | [官网](https://getegern.org/?utm_source=github&utm_medium=jichangzhu_jichangtuijian) |
+| [FlClash](https://getflclash.org/?utm_source=github&utm_medium=jichangzhu_jichangtuijian) | :green_circle: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :x: | :white_check_mark: | :x: | [官网](https://github.com/chen08209/FlClash/releases) |
+| [Hiddify](https://gethiddify.org/?utm_source=github&utm_medium=jichangzhu_jichangtuijian) | :green_circle: | white_check_mark: | white_check_mark: | white_check_mark: | white_check_mark: | white_check_mark: | :x: | [官网](https://github.com/hiddify/hiddify-next/releases) |
+| [Karing](https://getkaring.org/?utm_source=github&utm_medium=jichangzhu_jichangtuijian) | :green_circle: | white_check_mark: | white_check_mark: | white_check_mark: | white_check_mark: | white_check_mark: | :x: | [官网](https://github.com/KaringX/karing/releases) |
+| [Loon](https://getloon.org/?utm_source=github&utm_medium=jichangzhu_jichangtuijian) | :green_circle: | :x: | :x: | :x: | white_check_mark: | :x: | :x: | [官网](https://getloon.org/?utm_source=github&utm_medium=jichangzhu_jichangtuijian) |
+| [Mihomo Party](https://mihomo-party.org/?utm_source=github&utm_medium=jichangzhu_jichangtuijian) | :red_circle: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :x: | :x: | :x: | [备份](https://mihomo-party.org/?utm_source=github&utm_medium=jichangzhu_jichangtuijian) |
+| [NekoBox for Android](https://nekoboxforandroid.org/?utm_source=github&utm_medium=jichangzhu_jichangtuijian) | :green_circle: | :x: | :x: | :x: | :x: | white_check_mark: | :x: | [官网](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases) |
+| [NekoRay](https://nekoray.org/?utm_source=github&utm_medium=jichangzhu_jichangtuijian) | :red_circle: | :white_check_mark: | :x: | :white_check_mark: | :x: | :x: | :x: | [备份](https://nekoray.org/?utm_source=github&utm_medium=jichangzhu_jichangtuijian) |
+| [OpenClash](https://openclash.org/?utm_source=github&utm_medium=jichangzhu_jichangtuijian) | :green_circle: | :x: | :x: | :x: | :x: | :x: | :white_check_mark: | [官网](https://github.com/vernesong/OpenClash/releases) |
+| [PassWall2](https://passwall2.org/?utm_source=github&utm_medium=jichangzhu_jichangtuijian) | :green_circle: | :x: | :x: | :x: | :x: | :x: | :white_check_mark: | [官网](https://github.com/Openwrt-Passwall/openwrt-passwall2/releases) |
+| [Pharos](https://getpharos.org/?utm_source=github&utm_medium=jichangzhu_jichangtuijian) | :green_circle: | :x: | :x: | :x: | white_check_mark: | :x: | :x: | [官网](https://getpharos.org/?utm_source=github&utm_medium=jichangzhu_jichangtuijian) |
+| [Potatso Lite](https://potatso.org/?utm_source=github&utm_medium=jichangzhu_jichangtuijian) | :green_circle: | :x: | :x: | :x: | white_check_mark: | :x: | :x: | [官网](https://potatso.org/?utm_source=github&utm_medium=jichangzhu_jichangtuijian) |
+| [Quantumult](https://quantumult.org/?utm_source=github&utm_medium=jichangzhu_jichangtuijian) | :red_circle: | :x: | :x: | :x: | white_check_mark: | :x: | :x: | [备份](https://quantumult.org/?utm_source=github&utm_medium=jichangzhu_jichangtuijian) |
+| [Quantumult X](https://quantumultx.org/?utm_source=github&utm_medium=jichangzhu_jichangtuijian) | :green_circle: | :x: | white_check_mark: | :x: | white_check_mark: | :x: | :x: | [官网](https://quantumultx.org/?utm_source=github&utm_medium=jichangzhu_jichangtuijian) |
+| [Shadowrocket](https://shadowrocket.org/?utm_source=github&utm_medium=jichangzhu_jichangtuijian) | :green_circle: | :x: | white_check_mark: | :x: | white_check_mark: | :x: | :x: | [官网](https://shadowrocket.org/?utm_source=github&utm_medium=jichangzhu_jichangtuijian) |
+| [ShadowsocksR Plus+](https://ssrplus.org/?utm_source=github&utm_medium=jichangzhu_jichangtuijian) | :green_circle: | :x: | :x: | :x: | :x: | :x: | :white_check_mark: | [官网](https://github.com/fw876/helloworld) |
+| [sing-box](https://sing-box.org/?utm_source=github&utm_medium=jichangzhu_jichangtuijian) | :green_circle: | white_check_mark: | white_check_mark: | white_check_mark: | white_check_mark: | white_check_mark: | :x: | [官网](https://github.com/SagerNet/sing-box/releases) |
+| [Sparkle](https://getsparkle.org/?utm_source=github&utm_medium=jichangzhu_jichangtuijian) | :green_circle: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :x: | :x: | :x: | [官网](https://github.com/xishang0128/sparkle/releases) |
+| [Stash](https://getstash.org/?utm_source=github&utm_medium=jichangzhu_jichangtuijian) | :green_circle: | :x: | white_check_mark: | :x: | white_check_mark: | :x: | :x: | [官网](https://getstash.org/?utm_source=github&utm_medium=jichangzhu_jichangtuijian) |
+| [Surfboard](https://getsurfboard.org/?utm_source=github&utm_medium=jichangzhu_jichangtuijian) | :green_circle: | :x: | :x: | :x: | :x: | white_check_mark: | :x: | [官网](https://github.com/getsurfboard/surfboard/releases) |
+| [Surge](https://nssurge.org/?utm_source=github&utm_medium=jichangzhu_jichangtuijian) | :green_circle: | :x: | white_check_mark: | :x: | white_check_mark: | :x: | :x: | [官网](https://nssurge.org/?utm_source=github&utm_medium=jichangzhu_jichangtuijian) |
+| [Throne](https://getthrone.org/?utm_source=github&utm_medium=jichangzhu_jichangtuijian) | :green_circle: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :x: | :x: | :x: | [官网](https://github.com/throneproj/Throne/releases) |
+| [V2Box](https://getv2box.org/?utm_source=github&utm_medium=jichangzhu_jichangtuijian) | :green_circle: | :x: | white_check_mark: | :x: | white_check_mark:| white_check_mark: | :x: | [官网](https://getv2box.org/?utm_source=github&utm_medium=jichangzhu_jichangtuijian) |
+| [v2rayN](https://v2rayn.org/?utm_source=github&utm_medium=jichangzhu_jichangtuijian) | :green_circle: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :x: | :x: | :x: | [官网](https://github.com/2dust/v2rayN/releases) |
+| [v2rayNG](https://v2rayng.org/?utm_source=github&utm_medium=jichangzhu_jichangtuijian) | :green_circle: | :x: | :x: | :x: | :x: | white_check_mark: | :x: | [官网](https://github.com/2dust/v2rayNG/releases) |
+| [V2rayU](https://v2rayu.org/?utm_source=github&utm_medium=jichangzhu_jichangtuijian) | :green_circle: | :x: | :white_check_mark: | :x: | :x: | :x: | :x: | [官网](https://github.com/yanue/V2rayU/releases) |
+| [WinXray](https://winxray.org/?utm_source=github&utm_medium=jichangzhu_jichangtuijian) | :red_circle: | :white_check_mark: | :x: | :x: | :x: | :x: | :x: | [备份](https://winxray.org/?utm_source=github&utm_medium=jichangzhu_jichangtuijian) |
 
 
 
