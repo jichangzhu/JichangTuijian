@@ -10,6 +10,7 @@
 
 ## 客户端推荐
 
+[代理雷达](https://github.com/guiforcores/dailileida)：每日追踪 mihomo、sing-box、Xray、V2Ray、Clash 及自研内核的代理客户端：开源项目看 GitHub Star，商店应用看美区 App Store / Google Play 评分数。
 
 ### 快速导航
 
